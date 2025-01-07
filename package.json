@@ -1,0 +1,8 @@
+{
+  "homepage": "https://JASPAL70.github.io/OCTANET_JANUARY",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d .",
+    "build": "echo 'No build step required for plain HTML/JS projects'"
+  }
+}
