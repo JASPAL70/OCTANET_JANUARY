@@ -4,5 +4,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d .",
     "build": "echo 'No build step required for plain HTML/JS projects'"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
