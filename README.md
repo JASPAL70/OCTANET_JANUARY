@@ -62,3 +62,5 @@ This project is open source and available under the MIT License.
 ---
 
 *Developed by*:jaspal https://github.com/JASPAL70
+
+*Deploy by*: https://JASPAL70.github.io/OCTANET_JANUARY
