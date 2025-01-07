@@ -61,8 +61,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-<<<<<<< HEAD
 *Developed by*:jaspal https://github.com/JASPAL70
-=======
-*Developed by*:jaspal https://github.com/JASPAL70
->>>>>>> 5c2f9c2f49c26eee30aed040f82098710d243452
